@@ -1,0 +1,30 @@
+PODS:
+  - CocoaLumberjack (3.8.5):
+    - CocoaLumberjack/Core (= 3.8.5)
+  - CocoaLumberjack/Core (3.8.5)
+  - lottie-ios (4.5.1)
+  - SnapKit (5.7.1)
+  - SVGKit (3.0.0):
+    - CocoaLumberjack (~> 3.0)
+
+DEPENDENCIES:
+  - lottie-ios
+  - SnapKit
+  - SVGKit
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+    - lottie-ios
+    - SnapKit
+    - SVGKit
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 6a459bc897d6d80bd1b8c78482ec7ad05dffc3f0
+  lottie-ios: 248b380fa1b97d18e792c37d90da7ab2aa0d6562
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  SVGKit: 1ad7513f8c74d9652f94ed64ddecda1a23864dea
+
+PODFILE CHECKSUM: 98e4090383fa57931229e3bc73f06a73d0b8b53b
+
+COCOAPODS: 1.16.2
